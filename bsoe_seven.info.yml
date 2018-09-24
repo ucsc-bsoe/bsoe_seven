@@ -1,0 +1,23 @@
+name: BSOE Seven
+type: theme
+description: 'A basic admin for the BSOE themes.'
+package: 'Baskin School of Engineering'
+core: 8.x
+version: 1.0
+screenshot: img/logo.svg
+libraries:
+  - bsoe_seven/global-styling
+base theme: seven
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+regions_hidden:
+  - sidebar_first
+  - primary_menu

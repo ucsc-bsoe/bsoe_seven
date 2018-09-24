@@ -1,0 +1,6 @@
+<?php
+function bsoe_seven_suggestions_block_alter(&$suggestions, $variables) {
+  foreach ($suggestions as &$suggestion) {
+  $suggestion = str_replace('seven_', 'bsoe_seven_', $suggestion);
+  }
+}
