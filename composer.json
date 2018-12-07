@@ -1,8 +1,8 @@
 {
   "name": "drupal/bsoe_seven",
-  "description": "BSOE sub theme",
-  "type": "drupal-custom-theme",
-  "homepage": "https://github.com/ucsc-bsoe/bsoe_seven,
+  "description": "BSOE Seven theme",
+  "type": "drupal-custom-module",
+  "homepage": "https://github.com/ucsc-bsoe/bsoe_seven",
   "authors": [
     {
       "name": "Kristin Bradham",
