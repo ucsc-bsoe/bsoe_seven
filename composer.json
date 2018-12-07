@@ -1,0 +1,15 @@
+{
+  "name": "drupal/bsoe_seven",
+  "description": "BSOE sub theme",
+  "type": "drupal-custom-theme",
+  "homepage": "https://github.com/ucsc-bsoe/bsoe_seven,
+  "authors": [
+    {
+      "name": "Kristin Bradham",
+      "homepage": "https://www.drupal.org/u/kristindev",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev"
+}
